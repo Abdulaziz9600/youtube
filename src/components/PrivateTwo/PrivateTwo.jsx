@@ -1,5 +1,5 @@
 import cover from "../../assets/Cover.png";
-import Snake from "../../assets/Snake.svg";
+import Snake from "../../assets/snake.svg";
 import React, { useEffect, useState } from "react";
 import "../PrivateTwo/PrivateTwo.css"
 
